@@ -1,1 +1,1 @@
-
+In iOS 14, Apple adds a Security Recommendations feature. It will alert you when your password has appeared in a known data leak/breach. It also suggests you change passwords that are used by other people, which makes them easy to guess. Navigate to Settings > Passwords > Security Recommendations to activate it.
